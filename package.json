@@ -2,7 +2,7 @@
   "name": "discordcontact",
   "version": "0.0.0",
   "devDependencies": {
-    "wrangler": "2.6.2"
+    "wrangler": "3.1.1"
   },
   "private": true,
   "scripts": {
